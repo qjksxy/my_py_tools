@@ -1,3 +1,7 @@
+# 2024.11.08
+# 将 input 文件夹内的原始词语文件转换为词典文件，保存到 output 文件夹内
+# 原始词语文件：每行一个中文词组的文本文件
+
 import os
 import re
 from pypinyin import pinyin, Style
